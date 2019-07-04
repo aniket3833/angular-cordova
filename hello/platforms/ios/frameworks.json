@@ -1,0 +1,18 @@
+{
+    "ImageIO.framework": 1,
+    "CoreLocation.framework": 3,
+    "AVFoundation.framework": 1,
+    "AddressBook.framework": 2,
+    "AddressBookUI.framework": 1,
+    "AudioToolbox.framework": 1,
+    "LocalAuthentication.framework": 1,
+    "Security.framework": 2,
+    "CoreText.framework": 1,
+    "SafariServices.framework": 1,
+    "SystemConfiguration.framework": 2,
+    "libz.tbd": 1,
+    "libz.dylib": 1,
+    "CoreTelephony.framework": 1,
+    "QuartzCore.framework": 1,
+    "UserNotifications.framework": 1
+}

@@ -1,0 +1,66 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-fingerprint-login": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-android-fingerprint-auth": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-googleplus": {
+      "PLAY_SERVICES_VERSION": "11.8.0",
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-local-notification": {
+      "ANDROID_SUPPORT_V4_VERSION": "26.+",
+      "PACKAGE_NAME": "com.example.hello"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.example.hello"
+    }
+  }
+}
